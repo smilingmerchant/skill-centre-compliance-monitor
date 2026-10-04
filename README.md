@@ -87,21 +87,14 @@ Phone App + Camera + Beacon/Sensors -> small signed message (~1 KB) -> Verificat
 - Android first. Needs a small one-time hardware cost per centre (beacon about ₹400, indicative).
 - It tells inspectors where to look. It does not replace them.
 
-## Getting Started
 
-> Update to match your repo. These are examples only.
 
-```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
-docker compose up --build
-```
 
 ## Team
 
-- **Team name:** *add here*
-- **Members:** *add here*
+- **Team name:** *STARK_01*
+- 
 
 ---
 
-*We don't promise cheating is impossible. We make it detectable, costly, and always backed by evidence.*
+
